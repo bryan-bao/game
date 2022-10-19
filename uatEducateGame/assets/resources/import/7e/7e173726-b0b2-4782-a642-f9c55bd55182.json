@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"game","id,名字,游戏资源图,描述,排序\r\nstring,string,string,string,number\r\nid,name,icon,des,sort\r\n1,趣味数学,icon1,,\r\n2,古诗填空,icon2,,\r\n3,形状辨识,icon3,,\r\n4,单词填空,icon4,,\r\n"]],0,0,[],[],[]]
