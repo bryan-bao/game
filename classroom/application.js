@@ -16,7 +16,7 @@ System.register([], function (_export, _context) {
         function Application() {
           _classCallCheck(this, Application);
 
-          this.settingsPath = 'src/settings.d24c5.json';
+          this.settingsPath = 'src/settings.json';
           this.showFPS = false;
         }
 
